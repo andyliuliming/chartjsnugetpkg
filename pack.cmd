@@ -1,0 +1,1 @@
+nuget pack AngularJs.Chart.Js.nuspec

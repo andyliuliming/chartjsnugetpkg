@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>AngularJs.Chart.Js</id>
+    <version>1.1.0</version>
+    <authors>andyliuliming</authors>
+    <owners>andyliuliming</owners>
+    <projectUrl>https://github.com/andyliuliming/chartjsnugetpkg</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Provides nuget package for angularjs chart.js.</description>
+    <copyright>Copyright 2017</copyright>
+    <tags>AngularJs Chart.js</tags>
+  </metadata>
+  <files>
+	<file src="content\Scripts\angular-chart.js" target="content\Scripts\angular-chart.js" />
+	<file src="content\Scripts\angular-chart.min.js" target="content\Scripts\angular-chart.min.js" />
+	<file src="AngularJs.Chart.Js.nuspec" target="AngularJs.Chart.Js.nuspec" />
+   </files>
+</package>
